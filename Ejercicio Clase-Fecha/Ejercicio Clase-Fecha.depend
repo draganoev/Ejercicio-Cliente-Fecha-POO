@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1681503745 source:c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio clase-fecha\ejercicio clase-fecha\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Funciones.h"
+
+1681503200 source:c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio clase-fecha\ejercicio clase-fecha\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1681498233 c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio clase-fecha\ejercicio clase-fecha\fecha.h
+
+1681503251 source:c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio clase-fecha\ejercicio clase-fecha\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Funciones.h"
+	"Fecha.h"
+
+1681501809 c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio clase-fecha\ejercicio clase-fecha\cliente.h
+	"Fecha.h"
+
+1681653772 source:c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio clase-fecha\ejercicio clase-fecha\funciones.cpp
+	<iostream>
+	"Funciones.h"
+	"Cliente.h"
+
+1681653658 c:\users\gonzalo\desktop\utn\programación 2\poo\ejercicio clase-fecha\ejercicio clase-fecha\funciones.h
+	"Cliente.h"
+
